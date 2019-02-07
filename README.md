@@ -11,11 +11,11 @@ Chen Yuan Bo
 
               Menu             |             Instructions              |             Game Settings
 :-----------------------------:|:-------------------------------------:|:-------------------------------------:
-![picture](app_photos/menu.jpg)|![picture](app_photos/instructions.jpg)|![picture](app_photos/gamesettings.jpg)
+![picture](app_photos/menu.jpg, 20%)|![picture](app_photos/instructions.jpg, 20%)|![picture](app_photos/gamesettings.jpg, 20%)
 
            Observer Screen           |            Drawer Screen             |            Score Page
 :-----------------------------------:|:------------------------------------:|:------------------------------:
-![picture](app_photos/obs_screen.jpg)|![picture](app_photos/draw_screen.jpg)|![picture](app_photos/score.jpg)
+![picture](app_photos/obs_screen.jpg, 20%)|![picture](app_photos/draw_screen.jpg, 20%)|![picture](app_photos/score.jpg, 20%)
 
 
 
