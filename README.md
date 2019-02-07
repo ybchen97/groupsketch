@@ -13,7 +13,6 @@ Menu | Instructions  | Game Settings
 :-------------------------:|:-------------------------------:|:------------------:
 <img src="app_photos/menu.jpg" width="212" height="426">|<img  src="app_photos/instructions.jpg" width="212" height="426">|<img src="app_photos/gamesettings.jpg" width="212" height="426">
 Observer Screen |  Drawer Screen |  Score Page
-:-----------------------------------:|:------------------------------------:|:------------------------------:
 <img src="app_photos/obs_screen.jpg" width="206" height="426">|<img src="app_photos/draw_screen.jpg" width="206" height="426">|<img src="app_photos/score.jpg" width="212" height="426">
 
 <br>
