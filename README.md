@@ -2,9 +2,13 @@
 GroupSketch is a multiplayer drawing game that was created with Processing during Hack&Roll 2019. 
 
 Contributors:
+
 Chen Yuan Bo
+
 [Oliver Cheok](https://github.com/olivercheok20)
+
 [Larry Law](https://github.com/larrylawl) 
+
 [Wong Wen Wei](https://www.linkedin.com/in/wong-wen-wei/)
 
 <br>
