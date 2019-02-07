@@ -7,12 +7,16 @@ Chen Yuan Bo
 [Larry Law](https://github.com/larrylawl) 
 [Wong Wen Wei](https://www.linkedin.com/in/wong-wen-wei/)
 
+<br>
+
 ### Gameplay
 Two phases of the game:
 - Observation
 - Drawing
 
 During observation phase, game outputs a random pattern of colours based on the number of colours the players choose on the game settings page. Players then have a few seconds to memorise the pattern, before the screen disappears. Then, during the drawing phase, players have to recreate the pattern based off of memory.
+
+<br>
 
 ### Gameplay Screenshots
 Menu | Instructions  | Game Settings
