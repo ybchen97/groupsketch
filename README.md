@@ -17,7 +17,12 @@ Chen Yuan Bo
 :-----------------------------------:|:------------------------------------:|:------------------------------:
 <img src="app_photos/instructions.jpg" width="103" height="213">|<img src="app_photos/instructions.jpg" width="103" height="213">|<img src="app_photos/instructions.jpg" width="106" height="213">
 
-
+Menu | Instructions  | Game Settings
+:-------------------------:|:-------------------------------:|:------------------:
+<img src="app_photos/menu.jpg" width="212" height="426">|<img  src="app_photos/instructions.jpg" width="212" height="426">|<img src="app_photos/instructions.jpg" width="212" height="426">
+Observer Screen |  Drawer Screen |  Score Page
+:-----------------------------------:|:------------------------------------:|:------------------------------:
+<img src="app_photos/instructions.jpg" width="206" height="426">|<img src="app_photos/instructions.jpg" width="206" height="426">|<img src="app_photos/instructions.jpg" width="212" height="426">
 
 <br>
 
